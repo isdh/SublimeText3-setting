@@ -1,0 +1,21 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/amCoder Classic (Bright) (SL).tmTheme",
+	"font_face": "Ricty Diminished",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Diffy",
+		"HTML Snippets",
+		"Language - English",
+		"MarkdownLight",
+		"Sublimerge Pro",
+		"Terminal",
+		"Vintage"
+	],
+	"index_exclude_patterns":
+	[
+		"*.log",
+		"C:\\Users\\yanagi\\Documents\\NetBeansProjects\\TENMS_Service\\ftpsync.settings"
+	],
+	"original_color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme"
+}

@@ -1,0 +1,12 @@
+{
+	"args":
+	{
+		"format": "%X"
+	},
+	"command": "insert_date",
+	"keys":
+	[
+		"shift+f5"
+	],
+	"tz_in": "Asia/Tokyo"
+}
