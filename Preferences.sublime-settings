@@ -1,7 +1,10 @@
 {
 	"color_scheme": "Packages/User/SublimeLinter/amCoder Classic (Bright) (SL).tmTheme",
+	"disable_formatted_linebreak": true,
+	"draw_white_space": "all",
 	"font_face": "Ricty Diminished",
 	"font_size": 12,
+	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Diffy",
@@ -9,7 +12,6 @@
 		"Language - English",
 		"MarkdownLight",
 		"Sublimerge Pro",
-		"Terminal",
 		"Vintage"
 	],
 	"index_exclude_patterns":
@@ -17,5 +19,7 @@
 		"*.log",
 		"C:\\Users\\yanagi\\Documents\\NetBeansProjects\\TENMS_Service\\ftpsync.settings"
 	],
-	"original_color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme"
+	"original_color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true
 }
