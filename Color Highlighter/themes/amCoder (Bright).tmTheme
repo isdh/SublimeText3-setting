@@ -1,13 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
     <key>name</key>
     <string>amCoder (Bright)</string>
     <key>settings</key>
     <array>
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_ffffffFF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#ffffffFF</string>
+<key>foreground</key>
+<string>#000000FF</string>
+<key>caret</key>
+<string>#000000FF</string>
+</dict>
+</dict>
 
-        
+<dict>
+<key>name</key>
+<string>mon_text_color</string>
+<key>scope</key>
+<string>mcol_text_ffffffFF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#1C1C1dFF</string>
+<key>foreground</key>
+<string>#ffffffFF</string>
+<key>caret</key>
+<string>#000000FF</string>
+</dict>
+</dict>
+
+
+        <!-- Sublime -->
         <dict>
             <key>settings</key>
             <dict>
@@ -89,7 +121,7 @@
             </dict>
         </dict>
 
-        
+        <!-- Built-in -->
         <dict>
             <key>name</key>
             <string>Comment</string>
@@ -153,7 +185,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string />
+                <string></string>
             </dict>
         </dict>
         <dict>
@@ -306,7 +338,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string />
+                <string></string>
             </dict>
         </dict>
         <dict>
@@ -391,7 +423,7 @@
             </dict>
         </dict>
 
-        
+        <!-- Markup -->
         <dict>
             <key>name</key>
             <string>Markup: raw inline</string>
@@ -478,7 +510,7 @@
             </dict>
         </dict>
 
-        
+        <!-- Markdown -->
         <dict>
             <key>name</key>
             <string>Markdown: plain</string>
@@ -598,37 +630,7 @@
             </dict>
         </dict>
 
-    <dict>
-            <key>name</key>
-            <string>SublimeLinter Warning</string>
-            <key>scope</key>
-            <string>sublimelinter.mark.warning</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#DDB700</string>
-            </dict>
-        </dict><dict>
-            <key>name</key>
-            <string>SublimeLinter Error</string>
-            <key>scope</key>
-            <string>sublimelinter.mark.error</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#D02000</string>
-            </dict>
-        </dict><dict>
-            <key>name</key>
-            <string>SublimeLinter Gutter Mark</string>
-            <key>scope</key>
-            <string>sublimelinter.gutter-mark</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#FFFFFF</string>
-            </dict>
-        </dict></array>
+    </array>
     <key>uuid</key>
     <string>8FDBC15C-3C53-4E9E-9213-7AC5D0103AB8</string>
     <key>colorSpaceName</key>

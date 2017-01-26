@@ -1,0 +1,67 @@
+{
+	"history":
+	[
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "1 2 3 4 5 6 7 8 9"
+				},
+				"command": "text_pastry_step",
+				"text": "1 2 3 4 5 6 7 8 9"
+			},
+			"key": "c2d06f689fbd660d2f9dbf888352d9d2",
+			"label": "1 2 3 4 5 6 7 8 9"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "\\n",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "\\n"
+			},
+			"key": "1d78758685e5e2f4efeeb490f8521abd",
+			"label": "\\n"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "1"
+				},
+				"command": "text_pastry_step",
+				"text": "\\i"
+			},
+			"key": "1bd7ee1ce72751da4e64129f6d32db41",
+			"label": "\\i"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "\\i(2)"
+				},
+				"command": "text_pastry_step",
+				"text": "\\i(2)"
+			},
+			"key": "7dabebb8540b161cbced10d7519f23b3",
+			"label": "\\i(2)"
+		}
+	],
+	"last_command":
+	{
+		"args":
+		{
+			"text": "\\i(2)"
+		},
+		"command": "text_pastry_step",
+		"text": "\\i(2)"
+	}
+}
